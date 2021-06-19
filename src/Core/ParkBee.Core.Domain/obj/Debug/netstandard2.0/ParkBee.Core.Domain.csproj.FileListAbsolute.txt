@@ -1,0 +1,8 @@
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\bin\Debug\netstandard2.0\ParkBee.Core.Domain.deps.json
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\bin\Debug\netstandard2.0\ParkBee.Core.Domain.dll
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\bin\Debug\netstandard2.0\ParkBee.Core.Domain.pdb
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\obj\Debug\netstandard2.0\ParkBee.Core.Domain.AssemblyInfoInputs.cache
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\obj\Debug\netstandard2.0\ParkBee.Core.Domain.AssemblyInfo.cs
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\obj\Debug\netstandard2.0\ParkBee.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\obj\Debug\netstandard2.0\ParkBee.Core.Domain.dll
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Domain\obj\Debug\netstandard2.0\ParkBee.Core.Domain.pdb

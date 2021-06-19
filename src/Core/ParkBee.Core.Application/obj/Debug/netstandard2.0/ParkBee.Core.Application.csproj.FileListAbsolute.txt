@@ -1,0 +1,12 @@
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\bin\Debug\netstandard2.0\ParkBee.Core.Application.deps.json
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\bin\Debug\netstandard2.0\ParkBee.Core.Application.dll
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\bin\Debug\netstandard2.0\ParkBee.Core.Application.pdb
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.AssemblyInfoInputs.cache
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.AssemblyInfo.cs
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.csproj.CoreCompileInputs.cache
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.dll
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.pdb
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\bin\Debug\netstandard2.0\ParkBee.Core.Domain.dll
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\bin\Debug\netstandard2.0\ParkBee.Core.Domain.pdb
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.csprojAssemblyReference.cache
+D:\Parkbee\ParkBee\ParkBee\Src\Core\ParkBee.Core.Application\obj\Debug\netstandard2.0\ParkBee.Core.Application.csproj.CopyComplete

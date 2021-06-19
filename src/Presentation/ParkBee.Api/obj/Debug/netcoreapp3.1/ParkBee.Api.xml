@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ParkBee.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ParkBee.Api.Controllers.GaragesController.GetGarageAsync(System.Guid)">
+            <summary>
+            Get garage by garage id
+            </summary>
+            <param name="garageId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkBee.Api.Controllers.GaragesController.GetGarageDoors(System.Guid)">
+            <summary>
+            Get garage doors for a garage
+            </summary>
+            <param name="garageId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkBee.Api.Controllers.GaragesController.RefreshDoorStatusAsync(ParkBee.Core.Application.Garages.Commands.RefreshGarageDoorStatusCommand)">
+            <summary>
+            Refresh garage door status
+            </summary>
+            <param name="request">Request to update garage door status based on garage id and door id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "flsmrpdo4/bwM/BEQNkhi8C7N2MGxjiWim3YextSwn29jE3jZ/8Ux7YC0sgn1fnVPex850hQ7nWmllkm/+If+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Parkbee\\ParkBee\\ParkBee\\Src\\Core\\ParkBee.Core.Domain\\ParkBee.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\raman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
