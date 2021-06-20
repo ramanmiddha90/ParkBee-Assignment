@@ -41,8 +41,13 @@ internally using MediatR to handle request and response
 3.  Start the containers . Press "Run" button on visual studio
 4.  Swagger URL will be launched https://localhost:63303/index.html
 
-Test below APIS 
 
+
+#### Sample Data in Database 
+
+[SampleData](https://github.com/ramanmiddha90/ParkBee-Assignment/blob/main/SampleData.md)
+
+Test below APIS 
 ```
 https://localhost:63303/token
 
