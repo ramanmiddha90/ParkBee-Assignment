@@ -46,7 +46,7 @@ Test below APIS
 ```
 https://localhost:63303/token
 
-Body : {
+{
   "userName": "string",
   "password": "string"
 }
@@ -67,12 +67,11 @@ https://localhost:63303/api/v1/Garages/3D4D7FBC-08CC-4D4D-B7DA-B88A9EBA511D\door
 ```
 https://localhost:63303/api/v1/Garages/RefreshDoorStatus
 
-body
 {
   "gargeId": "3d4d7fbc-08cc-4d4d-b7da-b88a9eba511d",
   "status": false,
   "doorId": "717decdd-69ba-43af-b5b5-94877f6d0ee4",
-  "ipAddress": ""
+  "ipAddress": "garage1Door2IPId"
 }
 ```
 
