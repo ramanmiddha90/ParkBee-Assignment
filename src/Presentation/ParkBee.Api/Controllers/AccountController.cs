@@ -5,9 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ParkBee.Core.Application.Common.Models;
 using ParkBee.Core.Application.Token;
-using ParkBee.Core.Domain.GarageAggregate.Entities;
 using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace ParkBee.Assessment.API.Controllers
