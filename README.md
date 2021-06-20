@@ -37,8 +37,8 @@ internally using MediatR to handle request and response
 ### Steps
 
 1.  Launch ParkBee.sln in visual studio
-2.  Set "docker-compose" as statup project
-3.  Start the containers . Press "Run" button on visual studio
+2.  Set "docker-compose" as startup project
+3.  Start the containers. Press "Run" button on visual studio
 4.  Swagger URL will be launched https://localhost:63303/index.html
 
 
@@ -113,11 +113,11 @@ Following architectures i am familiar and used
  
 ## What do you think of them and would you want to implement it again?
 
-Yes , I would always look for the right spot and place in code to integrate design pattern. These gives us facility to make application structured and manageble.
+Yes, I would always look for the right spot and place in code to integrate design pattern. These give us facility to make application structured and manageable.
 
 ## What version control system do you use or prefer?
 
-I am used many version control system in career.
+I have used many versions control system in career.
 
 - TFS
 - Github ( For local)
@@ -136,7 +136,7 @@ My favourite language feature are :
 
 The tuples feature provides concise syntax to group multiple data elements in a lightweight data structure
 
-One of the most common use cases of tuples is as a method return type.That is, instead of defining out method parameters, you can group method results in a tuple return type.
+One of the most common use cases of tuples is as a method return type. That is, instead of defining out method parameters, you can group method results in a tuple return type.
 
 ```
 (int min, int max) FindMinMax(int[] input)
@@ -168,13 +168,13 @@ Console.WriteLine($"Limits of [{string.Join(" ", ys)}] are {minimum} and {maximu
 
 ## What future or current technology do you look forward to the most or want to use and why?
 
-I am pursuing my masters in Cyber security . So I would love to use best cyber security principles in project. Also I am passionate about azure architecture and design principle. So I am looking forward to use cyber security knowledge in Azure solutions.
+I am pursuing my masters in Cyber security. So, I would love to use best cyber security principles in project. Also, I am passionate about azure architecture and design principle. So I am looking forward to use cyber security knowledge in Azure solutions.
 
 My passion is to learn new technology concepts so I am also spending time to get my hands dirty on "React"
 
 ## How would you find a production bug/performance issue? Have you done this before?
 
-Not frequently but in couple of intanses we are majorly dependent on logging of the system which help us to track the issues.
+Not frequently but in couple of instances, we were majorly dependent on logging of the system which helped us to track the issues.
 
 ## How would you improve the sample API (bug fixes, security, performance, etc.)?
 
