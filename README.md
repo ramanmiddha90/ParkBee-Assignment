@@ -1,4 +1,4 @@
-# ParkBee-Assignment - CQRS + MediatR ASP.NET Core API and SQL Server - Docker Containers
+# ParkBee-Assignment - CQRS + MediatR ASP.NET Core API and SQL Server EF Core - Docker Containers
 
 Garage API built using Asp.Net Core 3.1 and MediaR integrated with CQRS pattern in .Net Application
 
