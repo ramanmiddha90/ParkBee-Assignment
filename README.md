@@ -34,7 +34,7 @@ internally using MediatR to handle request and response
 1.  [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 2.  [Docker Desktop](https://www.docker.com/products/docker-desktop) - Make sure its running ( Intall and reboot machine)
 
-Launch ParkBee.Sln in visual studio and Set "docker-compose" as statup project
+### Steps
 
 1.  Launch ParlBee.sln in visual studio
 2.  Set "docker-compose" as statup project
@@ -164,9 +164,9 @@ Console.WriteLine($"Limits of [{string.Join(" ", ys)}] are {minimum} and {maximu
 
 ## What future or current technology do you look forward to the most or want to use and why?
 
-I am pursuing my masters in Cyber security . So i would love to use best cyber security in my project. Also i am passionate about azure architecture and design principle. So i am looking forward to use cyber security knowledge in Azure solutions.
+I am pursuing my masters in Cyber security . So I would love to use best cyber security principles in project. Also I am passionate about azure architecture and design principle. So I am looking forward to use cyber security knowledge in Azure solutions.
 
-My passion is to learn new technology concepts so i am also spending time to get my hands dirty on "React"
+My passion is to learn new technology concepts so I am also spending time to get my hands dirty on "React"
 
 ## How would you find a production bug/performance issue? Have you done this before?
 
@@ -176,9 +176,10 @@ Not frequently but in couple of intanses we are majorly dependent on logging of 
 
 I will make sure at least following things are implemented in API
 
-- Caching Mechanism ( for that i will use distributed cache ike Redis)
-- Async APIs to handle more requsts
-- Logging is properly implemented
-- Versioning is also important
-- All endpoints are secured (CORS request, Token Authentication , Role authorization , owasp security guidlines implemented)
-- API deployed under scalable model
+- Caching Mechanism ( I recommend distributed cache like Redis) -Bug Diagnostic
+- Async APIs to handle more requsts - Performance
+- Database stored procedure and queries  Performance
+- Logging ( Centralized logging like "Kafka", "Application Insight") - Bug Diagnostics
+- Versioning 
+- All endpoints are secured (CORS request, Token Authentication , Role authorization , owasp security guidlines implemented) - Security
+- API deployed under scalable model  - Performance
