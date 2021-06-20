@@ -53,7 +53,7 @@ Body : {
 
 ```
 
-Use this toke in swagger authorize 
+Use this token in swagger authorize or in request header ( Authorization : Bearer {token} )
 
 ```
 https://localhost:63303/api/v1/Garages/3D4D7FBC-08CC-4D4D-B7DA-B88A9EBA511D
