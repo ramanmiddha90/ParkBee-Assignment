@@ -36,7 +36,7 @@ internally using MediatR to handle request and response
 
 ### Steps
 
-1.  Launch ParlBee.sln in visual studio
+1.  Launch ParkBee.sln in visual studio
 2.  Set "docker-compose" as statup project
 3.  Start the containers . Press "Run" button on visual studio
 4.  Swagger URL will be launched https://localhost:63303/index.html
